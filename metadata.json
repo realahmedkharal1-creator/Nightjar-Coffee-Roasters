@@ -1,0 +1,6 @@
+{
+  "name": "Nightjar Coffee Roasters",
+  "description": "Award-winning specialty coffee roastery, eatery, and nitro cold brew taproom at Warehouse G62, Alserkal Avenue, Dubai.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
